@@ -13,18 +13,21 @@
 .card-kira {
     background-color: hsl(0, 0%, 100%);
     min-height: 600px;
+
 }
 
 .card-jeanette {
     background-color: hsl(0, 0%, 100%);
+    min-height: 300px;
 }
 
 .card-patrick {
     background-color: hsl(219, 29%, 14%);
+    min-height: 300px;
 }
 
 
-@media (min-width: 992px) {
+@media (min-width: 1200px) {
     .move-up {
         margin-top: -280px;
     }
@@ -63,4 +66,10 @@
         padding-left: 1rem;
         padding-right: 1rem;
     }
+    .card-kira {
+        min-height: 300px;
+    }
 }
+
+
+
