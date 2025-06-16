@@ -1,13 +1,10 @@
 This project is a solution to the Frontend Mentor Testimonials Grid Section challenge: https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7  
 
-I built the layout using Bootstrap 5 for rapid responsive design and utilized custom CSS for styling to match the challenge requirements. The testimonials are displayed as cards, with different background colors and text styles to highlight verified graduates. Special attention was given to vertical alignment and spacing, especially for the taller testimonial (Kira’s card), to maintain a balanced grid look.  
+I built the layout using Bootstrap for rapid responsive design and applied custom CSS to style the testimonials cards to closely match the challenge requirements. The testimonials are presented as cards with distinct background colors and text styles to highlight verified graduates. Special attention was given to vertical alignment and spacing, especially for Kira’s longer testimonial, to maintain a balanced and visually appealing grid layout.  
 
-I also implemented media queries to ensure appropriate padding and layout adjustments on smaller screens, making sure the cards stack vertically with adequate spacing and readable content.
+I implemented media queries to ensure proper padding and layout adjustments on smaller screens, so the cards stack vertically with enough spacing and remain easy to read.
 
-The biggest challenge was managing the varying heights of the testimonial cards, especially Kira’s longer testimonial, which caused alignment issues in the grid. To solve this, I applied CSS margin adjustments and Bootstrap’s responsive grid utilities to align the cards properly and keep a clean layout on all screen sizes.
+One of the main challenges was managing the varying heights of the testimonial cards, particularly Kira’s card, which caused alignment issues within the grid. To address this, I applied CSS margin adjustments and leveraged Bootstrap’s responsive grid utilities to align the cards properly and maintain a clean layout across all screen sizes.
 
-Another challenge was ensuring text inside the cards remained within the boundaries on smaller screens. I addressed this by adding responsive padding and adjusting font sizes for mobile views.
+Another challenge was ensuring the text inside the cards stayed within their boundaries on smaller screens. This was solved by adding responsive padding and adjusting font sizes to improve readability on mobile devices.
 
-The biggest challenge was managing the varying heights of the testimonial cards, especially Kira’s longer testimonial, which caused alignment issues in the grid. To solve this, I applied CSS margin adjustments and Bootstrap’s responsive grid utilities to align the cards properly and keep a clean layout on all screen sizes.
-
-Another challenge was ensuring text inside the cards remained within the boundaries on smaller screens. I addressed this by adding responsive padding and adjusting font sizes for mobile views.
